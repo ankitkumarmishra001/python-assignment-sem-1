@@ -1,0 +1,14 @@
+DAILY CALORIE TRACKER REPORT
+----------------------------------------------------
+Date & Time: 2025-11-11 19:25:38.851413
+
+Meal Name	Calories
+breakfast      	400.0
+lunch          	600.0
+dinner         	400.0
+----------------------------------------------------
+Total Calories:	1400.0
+Average per Meal:	466.67
+Calorie Limit:	1800.0
+Status:	✅ You are within your daily calorie limit. Great job!
+----------------------------------------------------
